@@ -1,6 +1,7 @@
 # 🌟 Profile Card - Ncha-mwasu Elisha
 
 ![Profile Card Preview](./images/preview.png)
+[Check it out](https://ncha-mwasu.github.io/HNG-13-internship-tasks/)
 
 > A visually appealing **Profile Card** built with **HTML5** and **CSS3**, showcasing essential information, social links, and interests in a clean and modern layout.  
 
